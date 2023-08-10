@@ -1,0 +1,43 @@
+
+1. Linear Model:
+
+1. Training Data:
+Mean = 83.11097569289926
+R2_score = 0.5581330550666436
+
+2. Testing Data:
+Mean = 53.50225236117991
+R2_score = 0.6810781244679242
+
+
+2. RANSAC Model:
+
+1. Training Data:
+Mean = 108.0533561705313
+R2_score = 0.4255246556448776
+
+2. Testing Data:
+Mean = 84.94709928608782
+R2_score = 0.4936383604480624
+
+
+3. DecisionTree Model:
+
+1. Training Data:
+Mean = 0.44959214501510564
+R2_score = 0.9976097030996492
+
+2. Testing Data:
+Mean = 65.97180722891567
+R2_score = 0.6067482850693514
+
+
+4. RandomForest Model:
+
+1. Training Data:
+Mean = 9.59258298972306
+R2_score = 0.9490001735107684
+
+2. Testing Data:
+Mean = 34.22408169164659
+R2_score = 0.7959934799047366
